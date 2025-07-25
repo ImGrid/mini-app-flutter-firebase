@@ -23,7 +23,7 @@ Aplicación móvil desarrollada en Flutter que implementa un sistema completo de
 <img src="screenshots/form_screen.JPG" width="300" alt="Formulario">
 
 ### Confirmación de Datos
-<img src="screenshots/alert_dialog.png" width="300" alt="Dialog de Confirmación">
+<img src="screenshots/alert_dialog.JPG" width="300" alt="Dialog de Confirmación">
 
 ## Funcionalidades
 
